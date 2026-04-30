@@ -1,2 +1,4 @@
 remote_theme: devich/quick@0.0.1
+plugins:
+- jekyll-remote-theme
 theme_color: green
