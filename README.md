@@ -1,4 +1,4 @@
-# TEST Ida Bailey Allen's Orange and Date Cake
+# Ida Bailey Allen's Orange and Date Cake
 ## Orange and Date Cake
 ![A picture of the Orange and Date Cake set with tea.](images/orange_date_cake.png)
 ### Ingredients
